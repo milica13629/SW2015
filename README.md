@@ -8,3 +8,7 @@ More detailed description can be found [here](https://github.com/milica13629/SW2
 
 #####Links to Documents:
 + Requirements analysis and specification document [(*RASD*)](https://github.com/milica13629/SW2015/blob/master/Delivrables/RASD%20myTaxiService%20-%20final.pdf)
++ Design Document [(*DD*)](https://github.com/milica13629/SW2015/blob/master/Delivrables/RASD%20myTaxiService%20-%20final.pdf)
++ Integration Test Document [(*ITD*)](https://github.com/milica13629/SW2015/blob/master/Delivrables/RASD%20myTaxiService%20-%20final.pdf)
++ Project Plan [(*PP*)](https://github.com/milica13629/SW2015/blob/master/Delivrables/RASD%20myTaxiService%20-%20final.pdf)
++ Inspection Document [(*ID*)](https://github.com/milica13629/SW2015/blob/master/Delivrables/RASD%20myTaxiService%20-%20final.pdf)
